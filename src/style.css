@@ -1,0 +1,36 @@
+.container {
+  margin: 0 auto;
+  border: solid black;
+  background-color: #eb6e4b;
+  padding: 10px;
+  border-radius: 5px;
+}
+h1,
+h2 {
+  text-align: center;
+}
+#search-city,
+#city-input {
+  display: block;
+  margin: 0 auto;
+}
+input {
+  display: block;
+  margin: 0 auto;
+}
+#current-location-button {
+  display: block;
+  margin: 0 auto;
+  border: solid black;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: blanchedalmond;
+  cursor: pointer;
+}
+#current-location-button:hover {
+  background-color: aliceblue;
+}
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
